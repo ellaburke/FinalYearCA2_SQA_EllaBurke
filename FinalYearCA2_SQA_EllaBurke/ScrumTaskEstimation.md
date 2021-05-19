@@ -3,11 +3,11 @@
 ### _Sprint Backlog_
 | Task ID | User Story | Task | Task Owner | Estimate | Status |
 | --- | ----------- |---- | ----- | ----- | --- |
-| 1 | Student Grade Reference Guide | Create Rubric Class | Ella | 1| To Be Started |
-| 2 | Student Grade Reference Guide | Create Student Grade Class | Ella | 1| To Be Started |
-| 3 | Student Grade Reference Guide | Team Version Control | Ella | 2| To Be Started |
-| 4 | Student Grade Reference Guide | Code Review Check List | Ella | 2| To Be Started |
-| 5 | Student Grade Reference Guide | Test Driven Development | Ella | 2| To Be Started |
+| 1 | Student Grade Reference Guide | Create Rubric Class | Ella | 1| Done|
+| 2 | Student Grade Reference Guide | Create Student Grade Class | Ella | 1| Done|
+| 3 | Student Grade Reference Guide | Team Version Control | Ella | 2| In Progress|
+| 4 | Student Grade Reference Guide | Code Review Check List | Ella | 2| In Progress |
+| 5 | Student Grade Reference Guide | Test Driven Development | Ella | 2| In Progress |
 | 6 | Student Grade Reference Guide | Test Coverage Metric | Ella | 3| To Be Started |
 | 7 | Student Grade Reference Guide | Create Unit Test Class | Ella | 5| To Be Started |
 | 8 | Student Grade Reference Guide | Create Controller Class | Ella | 5| To Be Started |
